@@ -4,7 +4,7 @@ Our healthcare fraud detection project utilized the advanced capabilities of Neo
 integrated with Python via the Py2neo and Neo4j libraries. This approach was chosen due to the
 inherent strengths of Neo4j in efficiently managing complex relationships and executing intricate
 queries, which are paramount to identifying potential fraudulent activities in healthcare data.
-The data for the project, consisting of 145,000 data points with 40 features, was sourced from US
+The data for the project, consisting of 145,000,000 data points with 40 features, was sourced from US
 Health Repository. An important step in the process was the batch import of this data into our graph
 database, following the pre-defined schema that included nodes like Provider, Physician, Patient,
 Claim, and their interrelationships.
