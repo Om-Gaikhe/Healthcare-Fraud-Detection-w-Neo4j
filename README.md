@@ -1,6 +1,6 @@
 # Healthcare-Fraud-Detection
 ## Executive Summary
-Our healthcare fraud detection project utilized the advanced capabilities of Neo4j, a graph database,
+This healthcare fraud detection project utilized the advanced capabilities of Neo4j, a graph database,
 integrated with Python via the Py2neo and Neo4j libraries. This approach was chosen due to the
 inherent strengths of Neo4j in efficiently managing complex relationships and executing intricate
 queries, which are paramount to identifying potential fraudulent activities in healthcare data.
